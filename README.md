@@ -5,11 +5,11 @@ This Python script processes a batch of images located in a specified folder. It
 
 Features:
 
-*Processes images in bulk from a designated folder.
-*Applies grayscale conversion, Gaussian filtering, and dodge effect.
-*Saves processed images with custom filenames.
+Processes images in bulk from a designated folder, 
+Applies grayscale conversion, Gaussian filtering, and dodge effect, 
+Saves processed images with custom filenames.
 
 Usage:
 
-*Set the folder_path variable to the directory containing the images.
-*Run the script to process and save the images.
+Set the folder_path variable to the directory containing the images, 
+Run the script to process and save the images.
